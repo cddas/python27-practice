@@ -1,6 +1,6 @@
 # python27-practice
-practice exercises for python coding \n
-Exercise Ref : http://www.practicepython.org/exercise
+Practice exercises for python coding. <br/>
+Exercises Ref : http://www.practicepython.org/exercise
 
 exercise-1
 ==========
