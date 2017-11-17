@@ -40,3 +40,13 @@ exercise-6
 ==========
 Ask the user for a string and print out whether this string is a palindrome or not. (A palindrome is a string that 
 reads the same forwards and backwards.)
+
+exercise 7
+==========
+Make a two-player Rock-Paper-Scissors game. Ask for player plays (using input), compare them, print out a message of 
+congratulations to the winner, and ask if the players want to start a new game.<br/>
+
+Rules:<br/>
+<t/>Rock beats scissors<br/>
+<t/>Scissors beats paper<br/>
+<t/>Paper beats rock
