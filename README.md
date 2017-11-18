@@ -1,6 +1,6 @@
 # python27-practice
 Practice exercises for python coding. <br/>
-Exercises Ref : http://www.practicepython.org/exercise
+Exercises Ref : http://www.practicepython.org/exercises/
 
 exercise-1
 ==========
@@ -50,3 +50,11 @@ Rules:<br/>
 <t/>Rock beats scissors<br/>
 <t/>Scissors beats paper<br/>
 <t/>Paper beats rock
+
+exercise-8
+==========
+a) Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether 
+they guessed too low, too high, or exactly right.<br/>
+b) Keep the game going until the user types “exit”. <br/>
+c) Keep track of how many guesses the user has taken, and when the game ends, print this out. 
+
