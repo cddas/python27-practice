@@ -75,3 +75,9 @@ user the same string, except with the words in backwards order. For example, say
 Then I would see the string:<br/><br/>
   <i>Michele is name My</i><br/><br/>
 shown back to me.
+
+exercise-12 (Level - Difficult)
+===============================
+Write a password generator in Python. Be creative with how you generate passwords - strong passwords have a mix of 
+lowercase letters, uppercase letters, numbers, and symbols. The passwords should be random, generating a new password 
+every time the user asks for a new password.
