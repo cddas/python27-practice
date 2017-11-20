@@ -62,3 +62,7 @@ exercise-9
 ==========
 Ask the user for a number and determine whether the number is prime or not.
 
+exercise-10
+===========
+Write a program that asks the user how many Fibonnaci numbers to generate and then generates them. Make sure to ask the
+user to enter the number of numbers in the sequence to generate.
