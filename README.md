@@ -58,3 +58,7 @@ they guessed too low, too high, or exactly right.<br/>
 b) Keep the game going until the user types “exit”. <br/>
 c) Keep track of how many guesses the user has taken, and when the game ends, print this out. 
 
+exercise-9
+==========
+Ask the user for a number and determine whether the number is prime or not.
+
